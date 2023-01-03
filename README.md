@@ -1,7 +1,9 @@
-Curriculum
-**Short Specializations**
+Curriculum <br>
+**Short Specializations** <br>
 
 # 0x00. Pascal's Triangle
+
+`Algorithm` `Python`
 
 #### Concepts
 
@@ -9,4 +11,13 @@ _For this project, look at these concepts:_
 
 * [Technical Interview](https://www.alx-intranet.hbtn.io/concepts/100005)
 
-## General Learning
+## General Requirements
+
+* Allowed editors: `vi`, `vim`, `emacs`
+* Files interpreted/compiled on Ubuntu 14.04 LTS using `python3` (version 3.4.3)
+* Files first line exactly shebang `#!/usr/bin/python3`
+* `README.md` file mandatory
+* Code documented and using `PEP 8` style (version 1.7.x)
+* Files executable
+
+### General Learning
