@@ -3,7 +3,7 @@ Curriculum <br>
 
 # 0x00. Pascal's Triangle
 
-`Algorithm` `Python`
+`Algorithm` `Python` `Encapsulation`
 
 #### Concepts
 
@@ -20,4 +20,20 @@ _For this project, look at these concepts:_
 * Code documented and using `PEP 8` style (version 1.7.x)
 * Files executable
 
-### General Learning
+## General Learning & Setu
+
+`python.py`
+<details>
+  <summary>Click to show/hide file contents</summary>
+
+  ```python
+  import sys, argv
+  if __name__ == "__main__":
+
+  class ClassAct:
+  	pass
+
+  def fn():
+      pass
+  ```
+</details>
