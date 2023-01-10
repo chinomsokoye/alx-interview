@@ -10,10 +10,6 @@ if n is impossible to achieve, return 0
 
 
 def minOperations(n):
-    """
-    Function minOpearations
-    Returns an integer
-    """
     result = 0
     x = 2
     while n > 1:
