@@ -2,7 +2,7 @@
 """ Prime Game """
 
 
-def isPrime(n):
+def isprime(n):
     """ Return prime number """
     for i in range(2, n):
         if n % i == 0:
@@ -10,7 +10,7 @@ def isPrime(n):
     return True
 
 
-def deleteNumbers(n, nums):
+def delete_numbers(n, nums):
     """ Remove numbers - return zero """
     for i in range(len(nums)):
         if nums[i] % n == 0:
@@ -41,8 +41,8 @@ def isWinner(x, nums):
             change = False
             for i, n in enumerate(nums2):
                 # print("n: ", n, "i: ", i)
-                if n > 1 and isPrime(n):
-                    deleteNumbers(n, nums2)
+                if n > 1 and isprime(n):
+                    delete_numbers(n, nums2)
                     change = True
                     turn += 1
                     break
